@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1060348681973",
+    "firebase_url": "https://controllhomelight.firebaseio.com",
+    "project_id": "controllhomelight",
+    "storage_bucket": "controllhomelight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060348681973:android:50ba57cf9c492a6f",
+        "android_client_info": {
+          "package_name": "chicha.rmutsv.ac.th.controllhomelight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060348681973-888clijo29hblhuijfts4u5v4aiqb4qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chicha.rmutsv.ac.th.controllhomelight",
+            "certificate_hash": "76b3efce7978fd85670553bd4f88e234e1f5ca27"
+          }
+        },
+        {
+          "client_id": "1060348681973-thgq160s6ptcm5iq25kb0kgchj77fcl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2fV847PZIPsfW4NlMcrVoOvOcAYa1POo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060348681973-thgq160s6ptcm5iq25kb0kgchj77fcl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
